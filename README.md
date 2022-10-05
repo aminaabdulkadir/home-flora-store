@@ -15,3 +15,10 @@ They then will receive an email that contains the order details and the tracking
 The fronted of the website has been built with React library and Styled Components. State managment is done with Redux toolkit. 
 The Rest API has been built with Node.js and MongoDB. Authentication and authorization are done with JSON Web Token (JWT). 
 The checkout process has been accomplished by integerating PayPal API.
+
+### Setup
+
+...
+
+for authentication, username: test , password: test
+Make sure to logout after you done to avoid state mix with my other websities that have the same user state name.
