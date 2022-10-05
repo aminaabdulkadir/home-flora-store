@@ -2,7 +2,7 @@
 
 ### [Live Site](https://home-flora.herokuapp.com/)
 
-![Home Flora] (https://i.postimg.cc/pT0WBbHL/home-flora-home.png)
+![Home Flora](https://i.postimg.cc/pT0WBbHL/home-flora-home.png)
 
 ## An Overview 
 Home flora is an e-commerce app that sells a variety collection of indoor/outdoor plants.
