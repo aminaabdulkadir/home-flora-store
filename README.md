@@ -4,12 +4,12 @@
 
 ![Home Flora](https://i.postimg.cc/8zPZ8BhK/home-flora-productpage2.png)
 
-## Intriduction
+## Introduction
 Home flora is an e-commerce application that sells variety collections of indoor/outdoor plants. 
 
 Building an e-commerce app is a long and interesting journey where you get the chance to apply all your software development knowledge and constantly enhance it by solving the so many issues that you will run into through the process.
 
-I love plants:herb:, and dream to have my own garden, so I built Home Flora.
+I love plants :herb:, and dream to have my own garden, so I built Home Flora.
 
 ## Features
 - Products and users information are stored and managed with MongoDB Atlas.
@@ -24,9 +24,10 @@ Browse the different categories and filter the products to show them according t
 
 #### Authentication Information
 Username: test
+
 Password: test
 
-## Running Home Flora locally
+## Running Home Flora Locally
 1. Clone the project.
 2. install dependencies by running (npm install or yarn install) in the command line/ terminal.
 3. set the required environment variables: (PORT- MongoDB URL - JWT secret - paypal account credentials) 
