@@ -9,7 +9,7 @@ Home flora is an e-commerce application that sells variety collections of indoor
 
 Building an e-commerce app is a long and interesting journey where you get the chance to apply all your software development knowledge and constantly enhance it by solving the so many issues that you will run into through the process.
 
-I love plants :herb:, and dream to have my own garden, so I built Home Flora.
+I love plants :herb: and dream to have my own garden, so I built Home Flora.
 
 ## Features
 - Products and users information are stored and managed with MongoDB Atlas.
