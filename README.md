@@ -1,6 +1,5 @@
 # Home Flora Store (An E-commerce Application).
 
-### [Live Site](https://home-flora.herokuapp.com/)
 
 ![Home Flora](https://i.postimg.cc/8zPZ8BhK/home-flora-productpage2.png)
 
